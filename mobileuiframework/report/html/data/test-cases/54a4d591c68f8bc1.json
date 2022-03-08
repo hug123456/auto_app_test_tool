@@ -1,0 +1,186 @@
+{
+  "uid" : "54a4d591c68f8bc1",
+  "name" : "登录用户名错误",
+  "fullName" : "keyword.keyword_run#test_keyword",
+  "historyId" : "6bed0cf793b6887218b0ac9671b333d5",
+  "time" : {
+    "start" : 1634738073189,
+    "stop" : 1634738079174,
+    "duration" : 5985
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1634738054875,
+      "stop" : 1634738073186,
+      "duration" : 18311
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "deviceinfo",
+    "time" : {
+      "start" : 1634738054873,
+      "stop" : 1634738054875,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "worker_id",
+    "time" : {
+      "start" : 1634738054873,
+      "stop" : 1634738054873,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "case_setup_teardown",
+    "time" : {
+      "start" : 1634738073186,
+      "stop" : 1634738073187,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1634738054779,
+      "stop" : 1634738054873,
+      "duration" : 94
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "61e8ed7ab59690ce",
+      "name" : "log",
+      "source" : "61e8ed7ab59690ce.txt",
+      "type" : "text/plain",
+      "size" : 807
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1634738109542,
+      "stop" : 1634738113319,
+      "duration" : 3777
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "case_setup_teardown::0",
+    "time" : {
+      "start" : 1634738079177,
+      "stop" : 1634738091367,
+      "duration" : 12190
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "80e058c0071bc41f",
+      "name" : "执行回放",
+      "source" : "80e058c0071bc41f.gif",
+      "type" : "image/gif",
+      "size" : 102270
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "keyword"
+  }, {
+    "name" : "suite",
+    "value" : "keyword_run"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-93HH27QA"
+  }, {
+    "name" : "thread",
+    "value" : "40944-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "keyword.keyword_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "testcase",
+    "value" : "{'name': '登录用户名错误', 'action': '/keyword/actions/login.yml', 'params': {'username': 18837774444}, 'validate': [{'type': 'page_contains', 'expect': '帐号密码登录'}]}"
+  }, {
+    "name" : "testcase_name",
+    "value" : "'登录用户名错误'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54a4d591c68f8bc1.json",
+  "parameterValues" : [ "{'name': '登录用户名错误', 'action': '/keyword/actions/login.yml', 'params': {'username': 18837774444}, 'validate': [{'type': 'page_contains', 'expect': '帐号密码登录'}]}", "'登录用户名错误'" ]
+}

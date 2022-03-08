@@ -1,0 +1,20 @@
+name: 登录业务
+pagefile: /pagefiles/douban.yml
+variables:
+  username: 18729399607
+  password: abc123456
+steps:
+  - page: LoginPage
+    element: 帐号密码登录
+    operate: click
+  - page: LoginPage
+    element: 用户名输入框
+    operate: send_keys
+    param: ${username}
+  - page: LoginPage
+    element: 密码输入框
+    operate: send_keys
+    param: ${password}
+  - page: LoginPage
+    element: 登录按钮
+    operate: click

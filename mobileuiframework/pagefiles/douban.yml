@@ -1,0 +1,8 @@
+LoginPage:
+  帐号密码登录: {'name':'帐号密码登录','type':'id','value':'com.douban.frodo:id/left','timeout':5}
+  用户名输入框: {'name':'用户名输入框','type': 'id', 'value': 'com.douban.frodo:id/input_user_name','timeout':5}
+  密码输入框: {'name':'密码输入框','type': 'id', 'value': 'com.douban.frodo:id/input_password','timeout':5}
+  登录按钮: {'name':'登录按钮','type': 'id', 'value': 'com.douban.frodo:id/sign_in_douban','timeout':5}
+HomePage:
+  首页菜单: {'name':'首页菜单','type':'uiautomator','value':'text("首页")','timeout':5}
+  我的菜单: {'name':'我的菜单','type':'uiautomator','value':'text("我的")','timeout':5}

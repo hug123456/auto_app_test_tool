@@ -1,0 +1,103 @@
+2021-10-20 20:37:19,311 INFO [webautotest] [driver.py (__init__:45] - 初始化成功
+2021-10-20 21:12:20,894 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:12:20,936 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:12:23,223 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:12:23,468 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:12:23,488 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:12:23,698 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:12:24,028 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18729399607】成功
+2021-10-20 21:12:24,045 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:12:24,546 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:12:24,735 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18729399607】成功
+2021-10-20 21:12:24,757 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:12:25,168 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:12:25,252 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:12:25,861 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:12:30,495 INFO [webautotest] [driver.py (click:132] - 点击【我的菜单】成功
+2021-10-20 21:12:31,074 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【沙陌1】成功
+2021-10-20 21:12:31,784 INFO [webautotest] [driver.py (click:132] - 点击【我的菜单】成功
+2021-10-20 21:12:32,168 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【沙陌1】成功
+2021-10-20 21:20:29,674 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:20:30,354 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:20:31,966 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:20:32,021 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:20:32,629 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:20:32,844 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:20:33,139 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18729399607】成功
+2021-10-20 21:20:33,377 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18729399607】成功
+2021-10-20 21:20:33,398 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:20:33,649 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:20:33,671 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:20:33,935 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:20:34,406 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:20:34,551 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:20:38,052 INFO [webautotest] [driver.py (click:132] - 点击【我的菜单】成功
+2021-10-20 21:20:38,454 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【沙陌1】成功
+2021-10-20 21:20:39,441 INFO [webautotest] [driver.py (click:132] - 点击【我的菜单】成功
+2021-10-20 21:20:39,679 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【沙陌1】成功
+2021-10-20 21:47:57,245 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:47:57,279 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:47:59,570 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:48:00,364 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:48:14,890 ERROR [webautotest] [driver.py (click:134] - 点击【帐号密码登录】发生了异常Message: 
+
+2021-10-20 21:48:16,444 ERROR [webautotest] [driver.py (click:134] - 点击【帐号密码登录】发生了异常Message: 
+
+2021-10-20 21:50:15,797 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:50:16,587 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:50:18,007 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:50:18,902 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:50:32,646 ERROR [webautotest] [driver.py (click:134] - 点击【帐号密码登录】发生了异常Message: 
+
+2021-10-20 21:50:35,146 ERROR [webautotest] [driver.py (click:134] - 点击【帐号密码登录】发生了异常Message: 
+
+2021-10-20 21:52:37,877 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:52:39,226 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:52:40,507 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:52:40,594 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:52:41,362 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:52:41,439 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:52:41,700 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18837774444】成功
+2021-10-20 21:52:42,212 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:52:42,232 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:52:42,534 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18837774444】成功
+2021-10-20 21:52:42,552 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:52:42,975 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:52:43,055 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:52:43,100 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【帐号密码登录】成功
+2021-10-20 21:52:43,665 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:52:44,389 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【帐号密码登录】成功
+2021-10-20 21:52:58,644 ERROR [webautotest] [driver.py (click:134] - 点击【帐号密码登录】发生了异常Message: 
+
+2021-10-20 21:53:00,019 ERROR [webautotest] [driver.py (click:134] - 点击【帐号密码登录】发生了异常Message: 
+
+2021-10-20 21:54:33,185 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:54:33,357 INFO [webautotest] [driver.py (__init__:50] - 初始化成功
+2021-10-20 21:54:35,551 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:54:35,647 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:54:35,999 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:54:36,037 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:54:36,746 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18837774444】成功
+2021-10-20 21:54:36,766 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:54:37,149 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18837774444】成功
+2021-10-20 21:54:37,171 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:54:37,264 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:54:37,668 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:54:38,007 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:54:38,091 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【帐号密码登录】成功
+2021-10-20 21:54:38,279 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:54:39,036 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【帐号密码登录】成功
+2021-10-20 21:54:52,476 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:54:52,536 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:54:53,577 INFO [webautotest] [driver.py (click:132] - 点击【帐号密码登录】成功
+2021-10-20 21:54:53,637 INFO [webautotest] [driver.py (find_element:88] - 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:54:53,644 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18729399607】成功
+2021-10-20 21:54:53,661 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:54:54,168 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【18837774444】成功
+2021-10-20 21:54:54,750 INFO [webautotest] [driver.py (send_keys:142] - 向【用户名输入框】输入【18729399607】成功
+2021-10-20 21:54:54,771 INFO [webautotest] [driver.py (find_element:88] - 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:54:54,900 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:54:54,984 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【帐号密码登录】成功
+2021-10-20 21:54:55,270 INFO [webautotest] [driver.py (send_keys:142] - 向【密码输入框】输入【18837774444】成功
+2021-10-20 21:54:55,877 INFO [webautotest] [driver.py (click:132] - 点击【登录按钮】成功
+2021-10-20 21:54:56,606 INFO [webautotest] [driver.py (page_contains:172] - 判断页面包含【帐号密码登录】成功

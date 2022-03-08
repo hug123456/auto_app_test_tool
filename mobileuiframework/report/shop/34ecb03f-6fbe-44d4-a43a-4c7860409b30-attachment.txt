@@ -1,0 +1,8 @@
+2021-10-20 21:54:33 [driver.py:50  ] [ INFO] 初始化成功
+2021-10-20 21:54:35 [driver.py:132 ] [ INFO] 点击【帐号密码登录】成功
+2021-10-20 21:54:36 [driver.py:88  ] [ INFO] 查找【用户名输入框】使用【<class 'type'>,com.douban.frodo:id/input_user_name】定位成功
+2021-10-20 21:54:37 [driver.py:142 ] [ INFO] 向【用户名输入框】输入【18837774444】成功
+2021-10-20 21:54:37 [driver.py:88  ] [ INFO] 查找【密码输入框】使用【<class 'type'>,com.douban.frodo:id/input_password】定位成功
+2021-10-20 21:54:37 [driver.py:142 ] [ INFO] 向【密码输入框】输入【abc123456】成功
+2021-10-20 21:54:38 [driver.py:132 ] [ INFO] 点击【登录按钮】成功
+2021-10-20 21:54:39 [driver.py:172 ] [ INFO] 判断页面包含【帐号密码登录】成功

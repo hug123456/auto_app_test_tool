@@ -1,0 +1,17 @@
+name: 登录测试用例集合
+
+testcases:
+  - name: 登录用户名错误
+    action: /keyword/actions/login.yml
+    params:
+      username: 18837774444
+    validate:
+      - type: page_contains
+        expect: 帐号密码登录
+  - name: 登录密码错误
+    action: /keyword/actions/login.yml
+    params:
+      password: 18837774444
+    validate:
+      - type: page_contains
+        expect: 帐号密码登录
